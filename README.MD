@@ -1,2 +1,3 @@
 Welcome to jiyu's git-practice.
 Feel free to share emotion.
+![Lab8](https://github.com/user-attachments/assets/9c391be2-bd99-468f-9f0f-c580d2e9252e)
